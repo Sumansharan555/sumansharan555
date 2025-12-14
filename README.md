@@ -16,7 +16,7 @@
 - 🐍 Strong foundation in **Python, Data Preprocessing & Model Evaluation**
 - 📊 Passionate about building **data-driven, real-world solutions**
 - 🤝 Open to **internships, research opportunities & collaborative projects**
-- 📧 Reach me at **suman.sharan@outlook.com**
+- 📧 Reach me at **9877760597suman@gmail.com**
 
 ---
 
