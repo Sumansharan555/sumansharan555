@@ -1,22 +1,91 @@
-<h1 align="center">Hi 👋, I'm SumanSharan</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Suman Sharan</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning | AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **NNM, GenAI**
-
-- 📫 How to reach me **suman.sharan@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suman-sharan-2050892a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-sharan-2050892a0/" height="30" width="40" /></a>
-<a href="https://kaggle.com/sumansharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sumansharan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/9877760597suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/9877760597suman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/sumansharan555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/sumansharan555/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Sumansharan555">
+    <img src="https://komarev.com/ghpvc/?username=Sumansharan555&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansharan555&show_icons=true&locale=en&layout=compact" alt="sumansharan555" /></p>
+## 🚀 About Me
+
+- 🎓 Aspiring **Data Scientist** with strong interest in **AI & Machine Learning**
+- 🤖 Focused on **Machine Learning, Deep Learning, NLP & MLOps**
+- 🐍 Strong foundation in **Python, Data Preprocessing & Model Evaluation**
+- 📊 Passionate about building **data-driven, real-world solutions**
+- 🤝 Open to **internships, research opportunities & collaborative projects**
+- 📧 Reach me at **suman.sharan@outlook.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Sumansharan555">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/suman-sharan-2050892a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.kaggle.com/sumansharan">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/9877760597suman">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy)
+
+### 🔹 Machine Learning & Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+
+### 🔹 NLP & MLOps
+![MLflow](https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumansharan555&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumansharan555&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumansharan555&layout=compact&theme=default" />
+</p>
+
+---
+
+## 📌 Currently Learning
+- Advanced Machine Learning Algorithms  
+- Deep Learning Architectures  
+- Natural Language Processing  
+- MLOps & Model Deployment  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
 
 
 
