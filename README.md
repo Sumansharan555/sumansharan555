@@ -41,57 +41,88 @@
 </p>
 
 ---
-
-## 🛠️ Technical Skills
+## 🧑‍💻 Tech Stack
 
 ### 🔹 Programming
-- **Python**, **SQL**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
 
 ### 🔹 Machine Learning
-- Scikit-learn, TensorFlow, PyTorch  
-- XGBoost, LightGBM  
-- Linear Regression, Logistic Regression  
-- Decision Trees, Random Forest, Gradient Boosting  
-- k-NN, K-Means, Hierarchical Clustering  
-- Principal Component Analysis (PCA)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-6A5ACD?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-8A2BE2?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-228B22?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-556B2F?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-4682B4?style=for-the-badge)
+![K--Means](https://img.shields.io/badge/K--Means-20B2AA?style=for-the-badge)
+![Hierarchical Clustering](https://img.shields.io/badge/Hierarchical_Clustering-708090?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-9370DB?style=for-the-badge)
 
-### 🔹 Libraries & Frameworks
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn, PySpark  
+---
 
 ### 🔹 Deep Learning & NLP
-- Neural Networks  
-- Natural Language Processing (NLP)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-DC143C?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
+
+---
+
+### 🔹 Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+---
 
 ### 🔹 Data Analysis & Statistics
-- Exploratory Data Analysis (EDA)  
-- Hypothesis Testing  
-- Inferential Statistics  
-- Regression Analysis  
-- A/B Testing  
+![EDA](https://img.shields.io/badge/EDA-4682B4?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-8B0000?style=for-the-badge)
+![Inferential Statistics](https://img.shields.io/badge/Inferential_Statistics-483D8B?style=for-the-badge)
+![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-2F4F4F?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-006400?style=for-the-badge)
+
+---
 
 ### 🔹 Data Visualization
-- Matplotlib, Seaborn  
-- Power BI, Plotly  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
 
 ### 🔹 Databases
-- MySQL  
-- MongoDB  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ### 🔹 Cloud & Big Data
-- AWS, Azure  
-- Hadoop, Spark  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FFDE57?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+---
 
 ### 🔹 Tools & Platforms
-- Git & GitHub  
-- Docker  
-- Jupyter Notebook  
-- VS Code  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ### 🔹 Generative AI
-- OpenAI GPT-3 / GPT-4  
-- Prompt Engineering  
+![GPT-3](https://img.shields.io/badge/GPT--3/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
 
 ---
 
