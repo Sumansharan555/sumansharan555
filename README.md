@@ -35,29 +35,63 @@
   <a href="https://www.hackerrank.com/profile/9877760597suman">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/sumansharan555/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🔹 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy)
+### 🔹 Programming
+- **Python**, **SQL**
 
-### 🔹 Machine Learning & Deep Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+### 🔹 Machine Learning
+- Scikit-learn, TensorFlow, PyTorch  
+- XGBoost, LightGBM  
+- Linear Regression, Logistic Regression  
+- Decision Trees, Random Forest, Gradient Boosting  
+- k-NN, K-Means, Hierarchical Clustering  
+- Principal Component Analysis (PCA)
 
-### 🔹 NLP & MLOps
-![MLflow](https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+### 🔹 Libraries & Frameworks
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn, PySpark  
+
+### 🔹 Deep Learning & NLP
+- Neural Networks  
+- Natural Language Processing (NLP)
+
+### 🔹 Data Analysis & Statistics
+- Exploratory Data Analysis (EDA)  
+- Hypothesis Testing  
+- Inferential Statistics  
+- Regression Analysis  
+- A/B Testing  
+
+### 🔹 Data Visualization
+- Matplotlib, Seaborn  
+- Power BI, Plotly  
+
+### 🔹 Databases
+- MySQL  
+- MongoDB  
+
+### 🔹 Cloud & Big Data
+- AWS, Azure  
+- Hadoop, Spark  
+
+### 🔹 Tools & Platforms
+- Git & GitHub  
+- Docker  
+- Jupyter Notebook  
+- VS Code  
+
+### 🔹 Generative AI
+- OpenAI GPT-3 / GPT-4  
+- Prompt Engineering  
 
 ---
 
@@ -86,6 +120,7 @@
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
+
 
 
 
