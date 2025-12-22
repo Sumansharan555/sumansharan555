@@ -18,24 +18,7 @@
 </p>
 
 ---
-<!-- Data Lab Theme -->
-<div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=2AA5FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+Data+Universe;ML+Engineer+%7C+Data+Scientist;Transforming+Data+into+Intelligence" alt="Typing SVG" />
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="followers" />
-</p>
-
-<!-- Banner -->
-![Data Science Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.gif)
-
-</div>
-
----
 ## 🚀 About Me
 
 - 🎓 Aspiring **Data Scientist** with strong interest in **AI & Machine Learning**
