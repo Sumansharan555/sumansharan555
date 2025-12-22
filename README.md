@@ -1,3 +1,8 @@
+<!-- ===================== DATA SCIENCE THEME BANNER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&height=70&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Turning+Data+Into+Insights;Python+%7C+ML+%7C+NLP+%7C+MLOps" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Suman Sharan</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning | AI Enthusiast</h3>
 
@@ -5,6 +10,11 @@
   <a href="https://github.com/Sumansharan555">
     <img src="https://komarev.com/ghpvc/?username=Sumansharan555&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
+</p>
+
+<p align="center">
+  📊 Data Analysis &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp;
+  🧠 Deep Learning &nbsp;|&nbsp; ☁️ MLOps & Cloud &nbsp;|&nbsp; 🚀 Deployment
 </p>
 
 ---
