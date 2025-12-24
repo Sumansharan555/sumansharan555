@@ -16,7 +16,18 @@
   📊 Data Analysis &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp;
   🧠 Deep Learning &nbsp;|&nbsp; ☁️ MLOps & Cloud &nbsp;|&nbsp; 🚀 Deployment
 </p>
+<!-- ===================== WAVE HEADER THEME ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C7A89&height=200&section=header&text=Suman%20Sharan&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<p align="center">
+  <strong>Aspiring Data Scientist • Machine Learning • NLP</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumansharan555&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>j
 ---
 
 ## 🚀 About Me
